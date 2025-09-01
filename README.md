@@ -1,10 +1,30 @@
-- 👋 Hi, I’m ansh aggarwal
-- 👀 I’m interested in python
-- 🌱 I’m currently learning ai with python
-- 💞️ I’m looking to collaborate on anything
-- 📫  ig @ansh_aggarwa_04
+# 👋 Hi, I’m Ansh Aggarwal  
 
-<!---
-anshaggarwal04/anshaggarwal04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Aspiring AI/ML Engineer | B.Tech CSE (6th Semester)**  
+🚀 Passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**  
+📈 Currently mastering **DSA, Algorithms, and Cloud (Azure)**  
+🌱 Working on real-world projects in **AI-driven accessibility & healthcare**  
+📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/ansh-aggarwal) | [Email](mailto:your-email@gmail.com) | [GitHub](https://github.com/anshaggarwal04)  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Languages:** Python, C++, Java  
+- **AI/ML & DL:** TensorFlow, PyTorch, Scikit-learn, Mediapipe, OpenCV  
+- **Databases:** MySQL, MongoDB  
+- **Web Development:** HTML, CSS, JavaScript, React , Node 
+- **Tools & Platforms:** Git, GitHub,  Docker 
+
+---
+
+
+---
+
+## 🌟 Open to Collaborations  
+I’m interested in contributing to **AI/ML, Deep Learning, Web Development, and Open Source projects**.  
+Let’s build something impactful together!  
+
+---
+
+> *"Turning ideas into reality with the power of AI."*  
