@@ -32,12 +32,27 @@
 
 ### 🚀 Languages & Tools
 <p align="center">
+  <!-- Core Languages -->
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css" />
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres" />
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi" />
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+  <!-- Styling / UI -->
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" />
-  <img src="https://skillicons.dev/icons?i=git,github,docker,azure,vercel" />
-  <img src="https://skillicons.dev/icons?i=pycharm,vscode,postman" />
+  <!-- DevOps & Cloud -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,gcp,vercel,netlify" />
+  <!-- AI / LLM Tools -->
+  <img src="https://img.shields.io/badge/HuggingFace-FFB000?logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-4B8BBE?logo=graph&logoColor=white" />
+    <!-- Productivity & Testing -->
+
+  <img src="https://skillicons.dev/icons?i=postman,pytest,jest,vscode,pycharm" />
 </p>
+
+
+
 
 ---
 
