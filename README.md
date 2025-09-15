@@ -15,9 +15,9 @@
 ---
 
 ## 🌱 Currently Learning
-- 🧠 **Deep Learning & Federated Learning**  
-- ☁️ **Azure Cloud & MLOps**  
-- 🛠 **System Design & Scalable Architectures**  
+- 🧠 **Genrative AI**  
+- ☁️ **Devops**  
+- 🛠 **MERN stack**  
 
 ---
 
